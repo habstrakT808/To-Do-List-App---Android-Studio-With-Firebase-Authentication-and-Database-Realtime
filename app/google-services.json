@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "186655209004",
+    "firebase_url": "https://store-data-hafiyan-default-rtdb.firebaseio.com",
+    "project_id": "store-data-hafiyan",
+    "storage_bucket": "store-data-hafiyan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186655209004:android:21fd74a45ff0f7c3028389",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6p5LytOlUj1oj4W6W3ezfujpGXN6KTUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186655209004:android:e964817db5ac7689028389",
+        "android_client_info": {
+          "package_name": "com.example.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6p5LytOlUj1oj4W6W3ezfujpGXN6KTUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,6 @@
 # To-Do List App  
 **Android Studio Project with Firebase Authentication and Realtime Database**  
 
-![License](https://img.shields.io/badge/license-MIT-green)  
 A simple and intuitive To-Do List application built using Android Studio. This app includes Firebase Authentication for secure user management and Firebase Realtime Database for seamless data storage.
 
 ---
@@ -79,9 +78,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🖼️ Screenshots  
-| Login Screen | Task List | Add Task |  
-|--------------|-----------|----------|  
-| ![Login](https://via.placeholder.com/200x400?text=Login+Screen) | ![List](https://via.placeholder.com/200x400?text=Task+List) | ![Add](https://via.placeholder.com/200x400?text=Add+Task) |  
+| Sign Up Page | Login Page | Main Activity Page |  
+|--------------|------------|--------------------|  
+| ![Sign Up Page](https://github.com/user-attachments/assets/42823c57-eb1d-4c1c-a237-73549fd6845d) | ![Login page](https://github.com/user-attachments/assets/a66614b3-8b5a-4573-9301-56f3546a2273) | ![Main Page](https://github.com/user-attachments/assets/1bfa93c9-dca8-47f9-878c-b05da6f4e8be) |  
+
+| Upload Page | Detail Page | Update Page |  
+|-------------|-------------|-------------|  
+| ![Upload Page](https://github.com/user-attachments/assets/151671a4-9001-46d8-a0b4-afb99e9b7eb6) | ![Detail Page](https://github.com/user-attachments/assets/2a369a0b-ea22-4881-84ac-256a1b7a2e49) | ![Update Page](https://github.com/user-attachments/assets/0d28a008-1a21-4e64-a4fb-21755310032d) |  
 
 ---
 
@@ -105,5 +108,3 @@ Contributions are welcome!
 [GitHub](https://github.com/habstrakT808) | [LinkedIn](#)  
 
 ---
-
-Let me know if you need further adjustments!
